@@ -2,7 +2,7 @@
 public class GitTestApplication {
 
 	public GitTestApplication() {
-		// TODO Auto-generated constructor stub
+		String str = new String();
 	}
 
 	public static void main(String[] args) {
